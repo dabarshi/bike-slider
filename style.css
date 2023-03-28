@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+.header {
+    padding: 1rem;
+}
+.header-title{
+    text-align: center;
+}
+.slider {
+    margin: 1rem auto;
+    width: 600px;
+    height: 500px;
+}
+.slider img{
+    width: 100%;
+}
